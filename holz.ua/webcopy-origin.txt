@@ -1,0 +1,188 @@
+Uri: https://holz.ua/dveri/mezhkomnatnye/stekljannye/
+File Name: C:\Downloaded Web Sites\holz.ua\dveri\mezhkomnatnye\stekljannye\index-13.htm
+Content Type: text/html
+
+Uri: https://holz.ua/dveri/mezhkomnatnye/stekljannye/shopby/delivery_conditions-pod_zakaz/
+File Name: C:\Downloaded Web Sites\holz.ua\dveri\mezhkomnatnye\stekljannye\shopby\delivery_conditions-pod_zakaz\index-10.htm
+Content Type: text/html
+
+Uri: https://holz.ua/dveri/mezhkomnatnye/stekljannye/shopby/purpose-v_detskuju/
+File Name: C:\Downloaded Web Sites\holz.ua\dveri\mezhkomnatnye\stekljannye\shopby\purpose-v_detskuju\index-10.htm
+Content Type: text/html
+
+Uri: https://holz.ua/dveri/mezhkomnatnye/stekljannye/shopby/purpose-v_vannuju/
+File Name: C:\Downloaded Web Sites\holz.ua\dveri\mezhkomnatnye\stekljannye\shopby\purpose-v_vannuju\index-10.htm
+Content Type: text/html
+
+Uri: https://holz.ua/js/lib/lazyload/lazyload.min.js?v=1608541558
+File Name: C:\Downloaded Web Sites\holz.ua\js\lib\lazyload\lazyload.min-16.js
+Content Type: application/javascript
+
+Uri: https://holz.ua/media/amoptimization/kiev/media/css_secure/3ba56b90f4f75f457cae5a67a05dcd61.css?v=1675838424
+File Name: C:\Downloaded Web Sites\holz.ua\media\amoptimization\kiev\media\css_secure\3ba56b90f4f75f457cae5a67a05dcd61-17.css
+Content Type: text/css
+
+Uri: https://holz.ua/media/amoptimization/kiev/media/css_secure/9a893fc585b652a1fe48cf57deaaeb31.css?v=1674002045
+File Name: C:\Downloaded Web Sites\holz.ua\media\amoptimization\kiev\media\css_secure\9a893fc585b652a1fe48cf57deaaeb31-15.css
+Content Type: text/css
+
+Uri: https://holz.ua/media/amoptimization/media/js/e3672a1a12896311f8dbea38e91f524c.js?v=1675821910
+File Name: C:\Downloaded Web Sites\holz.ua\media\amoptimization\media\js\e3672a1a12896311f8dbea38e91f524c-13.js
+Content Type: application/javascript
+
+Uri: https://holz.ua/media/brander/layerednavigation/small354.png
+File Name: C:\Downloaded Web Sites\holz.ua\media\brander\layerednavigation\small354-13.png
+Content Type: image/png
+
+Uri: https://holz.ua/media/brander/layerednavigation/small355.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\brander\layerednavigation\small355-13.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/brander/layerednavigation/small356.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\brander\layerednavigation\small356-13.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/brander/layerednavigation/small357.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\brander\layerednavigation\small357-13.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/a/l/alu_fly1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\196x196\9df78eab33525d08d6e5fb8d27136e95\a\l\alu_fly1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/a/l/alu_quadro11.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\196x196\9df78eab33525d08d6e5fb8d27136e95\a\l\alu_quadro11-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/c/l/clear_door1-2.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\196x196\9df78eab33525d08d6e5fb8d27136e95\c\l\clear_door1-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/l/i/line1-1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\196x196\9df78eab33525d08d6e5fb8d27136e95\l\i\line1-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/_/1/_1_2_1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\196x196\9df78eab33525d08d6e5fb8d27136e95\_\1\_1_2_1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/392x392/9df78eab33525d08d6e5fb8d27136e95/a/l/alu_fly1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\392x392\9df78eab33525d08d6e5fb8d27136e95\a\l\alu_fly1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/392x392/9df78eab33525d08d6e5fb8d27136e95/a/l/alu_quadro11.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\392x392\9df78eab33525d08d6e5fb8d27136e95\a\l\alu_quadro11-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/392x392/9df78eab33525d08d6e5fb8d27136e95/c/l/clear_door1-2.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\392x392\9df78eab33525d08d6e5fb8d27136e95\c\l\clear_door1-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/392x392/9df78eab33525d08d6e5fb8d27136e95/l/i/line1-1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\392x392\9df78eab33525d08d6e5fb8d27136e95\l\i\line1-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/product/cache/8/small_image/392x392/9df78eab33525d08d6e5fb8d27136e95/_/1/_1_2_1.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\product\cache\8\small_image\392x392\9df78eab33525d08d6e5fb8d27136e95\_\1\_1_2_1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/catalog/swatches/8/15x15/media/brown.png
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\swatches\8\15x15\media\brown-11.png
+Content Type: image/png
+
+Uri: https://holz.ua/media/catalog/swatches/8/15x15/media/dark.png
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\swatches\8\15x15\media\dark-11.png
+Content Type: image/png
+
+Uri: https://holz.ua/media/catalog/swatches/8/15x15/media/light.png
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\swatches\8\15x15\media\light-11.png
+Content Type: image/png
+
+Uri: https://holz.ua/media/catalog/swatches/8/15x15/media/white.png
+File Name: C:\Downloaded Web Sites\holz.ua\media\catalog\swatches\8\15x15\media\white-10.png
+Content Type: image/png
+
+Uri: https://holz.ua/media/employee_photo/100x100/23.1662565266.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\100x100\23.1662565266-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/100x100/26.1664178014.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\100x100\26.1664178014-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/100x100/3.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\100x100\3-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/100x100/8.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\100x100\8-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/50x50/23.1662565266.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\50x50\23.1662565266-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/50x50/26.1664178014.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\50x50\26.1664178014-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/50x50/3.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\50x50\3-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/employee_photo/50x50/8.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\employee_photo\50x50\8-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/favicon/default/favicon.ico
+File Name: C:\Downloaded Web Sites\holz.ua\media\favicon\default\favicon-16.ico
+Content Type: image/x-icon
+
+Uri: https://holz.ua/media/logo/default/logo.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\logo\default\logo-16.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/social/image/b/x/bxl-instagram-alt.svg
+File Name: C:\Downloaded Web Sites\holz.ua\media\social\image\b\x\bxl-instagram-alt-16.svg
+Content Type: image/svg+xml
+
+Uri: https://holz.ua/media/social/image/b/x/bxl-youtube.svg
+File Name: C:\Downloaded Web Sites\holz.ua\media\social\image\b\x\bxl-youtube-16.svg
+Content Type: image/svg+xml
+
+Uri: https://holz.ua/media/social/image/f/a/facebook-circle.svg
+File Name: C:\Downloaded Web Sites\holz.ua\media\social\image\f\a\facebook-circle-16.svg
+Content Type: image/svg+xml
+
+Uri: https://holz.ua/media/wysiwyg/filter_page/2021/1-dveri-glass-foto.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\wysiwyg\filter_page\2021\1-dveri-glass-foto-10.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/wysiwyg/filter_page/2021/1-stekl-v-vann.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\wysiwyg\filter_page\2021\1-stekl-v-vann-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/wysiwyg/filter_page/2021/2-dveri-glass-foto.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\wysiwyg\filter_page\2021\2-dveri-glass-foto-10.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/media/wysiwyg/filter_page/2021/2-stekl-v-vann.jpg
+File Name: C:\Downloaded Web Sites\holz.ua\media\wysiwyg\filter_page\2021\2-stekl-v-vann-6.jpg
+Content Type: image/jpeg
+
+Uri: https://holz.ua/skin/frontend/ultimo/default/fonts/themeicons/ThemeIcons.woff?387osh
+File Name: C:\Downloaded Web Sites\holz.ua\skin\frontend\ultimo\default\fonts\themeicons\ThemeIcons-16.woff
+Content Type: application/font-woff
+
+Uri: https://holz.ua/skin/frontend/ultimo/unitop/images/lazy.gif
+File Name: C:\Downloaded Web Sites\holz.ua\skin\frontend\ultimo\unitop\images\lazy-16.gif
+Content Type: image/gif
+
+Uri: https://holz.ua/skin/frontend/ultimo/unitop/images/logo.png
+File Name: C:\Downloaded Web Sites\holz.ua\skin\frontend\ultimo\unitop\images\logo-16.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-76717414-1
+File Name: C:\Downloaded Web Sites\holz.ua\gtag\js-16
+Content Type: application/javascript
+
